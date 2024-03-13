@@ -1,6 +1,6 @@
 openapi: 3.1.0
 info:
-  title: Swagger Petstore - OpenAPI 3.0 commit chnage content
+  title: Swagger Petstore - OpenAPI 3.0 commit chnage content pull
   summary: Sample Pet Store Server based on the OpenAPI 3.1 specification.
   description: >-
     This is a sample Pet Store Server based on the OpenAPI 3.0
